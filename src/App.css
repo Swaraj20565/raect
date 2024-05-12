@@ -1,0 +1,33 @@
+.er{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+
+.container
+{
+  width: 300px;
+  height: 400px;
+  display :flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.label
+{
+  padding: 10px;
+  display :flex;
+  flex-direction: column;
+}
+.lcontainer
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ll
+{
+  padding: 10px;
+}
